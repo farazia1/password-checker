@@ -128,4 +128,4 @@ with col2:
 
 # Footer
 st.markdown("---")
-st.markdown("<p style='text-align:center;'>Made with ❤️ by RJ Construction</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align:center;'>Made with ❤️ by sarfaraz naeem</p>", unsafe_allow_html=True)
